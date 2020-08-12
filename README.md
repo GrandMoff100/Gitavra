@@ -6,11 +6,13 @@ This Project is an open-source free Git Manager and Interface. Developed in Pyth
 
 ![Application-Preview](/docs/pics/Initial-v1.png)
 
-####Features:
+
+## Features:
 
 - A Commit Viewing Panel
 - Intuitive Git Management
-- 
+- Easy and Clean Usage of Advanced ``git`` features.
+- Open-Source, Feel free to contribute! But be sure to read the Contribution Section of this README.
 
 ## Installation
 There are several methods of installing and running this product.

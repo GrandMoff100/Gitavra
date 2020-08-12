@@ -3,4 +3,6 @@
 venv/
 .git/
 
+*.pyc
+
 test.py
